@@ -1,0 +1,1 @@
+read(),redline(),and other method

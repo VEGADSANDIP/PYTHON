@@ -1,0 +1,5 @@
+print("SANDIP VEGAD")
+print(5)
+print("SANDIP HII",56,23,"sandip vegad")
+print(23*23)
+print("nahi ata",5+5)

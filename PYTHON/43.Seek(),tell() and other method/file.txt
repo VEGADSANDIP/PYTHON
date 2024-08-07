@@ -1,0 +1,4 @@
+PS C:\Users\sandi\.vscode\Beginners\PYTHON> python -u "c:\Users\sandi\.vscode\Beginners\PYTHON\python\42.Read(),readline() ,And Method\main.py"
+PS C:\Users\sandi\.vscode\Beginners\PYTHON> python -u "c:\Users\sandi\.vscode\Beginners\PYTHON\python\42.Read(),readline() ,And Method\main.py"
+PS C:\Users\sandi\.vscode\Beginners\PYTHON> python -u "c:\Users\sandi\.vscode\Beginners\PYTHON\python\42.Read(),readline() ,And Method\main.py"
+PS C:\Users\sandi\.vscode\Beginners\PYTHON> 
