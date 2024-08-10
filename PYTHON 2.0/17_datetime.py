@@ -1,0 +1,12 @@
+import datetime
+x = datetime.datetime.now()
+print(x)
+print(x.year)
+print(x.strftime("%Y"))
+print(x.strftime("%y"))
+print(x.month)
+print(x.strftime("%m"))
+print(x.strftime("%b"))
+print(x.strftime("%B"))
+print(x.day)
+print(x.strftime("%H"))
