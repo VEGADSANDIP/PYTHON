@@ -1,5 +1,0 @@
-var = int(input("enter the number "))
-var1 = int("%s"%var)
-var2 = int("%s%s"%(var,var))
-var3 = int("%s%s%s"%(var,var,var))
-print(var1+var2+var3)
