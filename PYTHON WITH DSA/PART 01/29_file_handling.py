@@ -1,0 +1,7 @@
+# text_file = open("text.txt","w")
+# text_file.write("welcome to ")
+# text_file = open("text.txt","a")
+# text_file.write("sandip")
+text_file = open("text.txt","r")
+print(text_file.read())
+text_file.close()
